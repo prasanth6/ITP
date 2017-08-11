@@ -18,6 +18,7 @@ public class SampleProject {
         // TODO code application logic here
         
         System.out.println("Changed");
+        System.out.println("New");
     }
     
 }
